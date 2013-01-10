@@ -2,5 +2,5 @@
 
 void main(void) {
 	printf("bye!");
-    printf("Mr.iwasaki.");
+    printf("Mr.Green.");
 }
