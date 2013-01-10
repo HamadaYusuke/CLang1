@@ -1,0 +1,10 @@
+#include<stdio.h>
+
+void main(void){
+	int i;
+	printf("åJÇËï‘ÇµÅ@Ç±Ç±Ç©ÇÁ\n");
+	for(i = 1; i <= 5; i = i + 1){
+		printf("åJÇËï‘Çµ%dâÒñ⁄\n",i);
+	}
+	printf("åJÇËï‘ÇµÅ@Ç±Ç±Ç‹Ç≈\n");
+}

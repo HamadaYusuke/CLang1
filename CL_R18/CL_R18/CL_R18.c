@@ -1,0 +1,14 @@
+#include<stdio.h>
+
+void main(void){
+	int i;
+printf("åJÇËï‘ÇµÅ@Ç±Ç±Ç©ÇÁ\n");
+i = 1;
+	while(i <= 3){
+		printf("åJÇËï‘ÇµíÜ\n");
+		i = i + 1;
+		break;
+		printf("Ç±ÇÃñΩóﬂÇÕé¿çsÇ≥ÇÍÇ‹ÇπÇÒ\n");
+	}
+	printf("åJÇËï‘ÇµÅ@Ç±Ç±Ç‹Ç≈\n");
+}
