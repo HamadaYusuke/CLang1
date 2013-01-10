@@ -1,6 +1,7 @@
 #include<stdio.h>
 
 void main(void) {
-	printf("bye!");
+	printf("Hey!");
     printf("Mr.Green.");
+    printf("Isn't the whereabouts of my lunch known? ")
 }
